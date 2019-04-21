@@ -1,0 +1,57 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Chop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "rotation": [
+        {
+          "frame": 0,
+          "value": 90
+        }
+      ]
+    },
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "ccecece8-950a-4f57-bac3-3193edf78c41"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "ef771c55-43cd-453d-94c1-8f81ef536589"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "88299cb1-8f4a-4a8f-8a1c-656b04617d27"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "090352a0-1df4-4c5f-8f65-aa794ca4ea21"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "55d2852e-6164-4b59-aab6-63f8c225d78e"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "knife",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "d8e5c8c9-4673-45eb-a20b-eddf2eb81c08"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "d5137761-2a2e-43f1-b39b-87c46b30c5c2"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "0c4051b1-b91b-4a2c-8ee4-ef96f24fa25b"
+            }
+          },
+          {
+            "frame": 0.21666666666666667,
+            "value": {
+              "__uuid__": "8439da8d-b59a-4541-aad2-17c72261cbcc"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "2c41f253-a236-4a4b-adfb-c702cb7a70de"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "1ed2e4bb-fd7c-48d7-989d-f835790b1b04"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

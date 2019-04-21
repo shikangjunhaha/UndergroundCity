@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "50cca0eb-1e45-41d1-8cc7-87d51cf0efef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Musketeers": {
+      "ver": "1.0.3",
+      "uuid": "b45a24ec-c315-4efe-9b86-8622785eb587",
+      "rawTextureUuid": "50cca0eb-1e45-41d1-8cc7-87d51cf0efef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7,
+      "offsetY": 4.5,
+      "trimX": 140,
+      "trimY": 0,
+      "width": 206,
+      "height": 441,
+      "rawWidth": 500,
+      "rawHeight": 450,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

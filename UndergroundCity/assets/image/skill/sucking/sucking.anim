@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sucking",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7d3b1a22-13d1-401c-a919-c33104ef6d86"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "ae83f02c-c70b-47ed-925c-b21540f1a54c"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "c219d6b8-2a67-46da-91b5-aa59ac1be9b6"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "e48e3291-eb11-473c-b359-dc023f509488"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "9333a19d-5a65-4516-8ad1-e0cd14812706"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "1a34cfce-7a05-4890-b4ca-93aa3d9570ae"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

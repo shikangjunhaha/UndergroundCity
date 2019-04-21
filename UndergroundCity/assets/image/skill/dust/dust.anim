@@ -1,0 +1,49 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "dust",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.35,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "56d21723-9e05-4999-8109-caae356e0254"
+            }
+          },
+          {
+            "frame": 0.08333333333333333,
+            "value": {
+              "__uuid__": "3ca5a183-bc8e-49c1-8e66-9d8103c8f3c1"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "8d455cce-f900-40ad-8c98-b5bf3945a35a"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "1881cf44-7369-4bcf-9c1a-7b50899c1935"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "6da22a67-4bb5-44bd-8fcb-972740bdb862"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

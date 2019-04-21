@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9c8531ea-d87f-44f6-8a82-b440577ac0b7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "Musketeersportrait": {
+      "ver": "1.0.3",
+      "uuid": "02e4d0b3-9902-4510-a15b-7b996ade6c9e",
+      "rawTextureUuid": "9c8531ea-d87f-44f6-8a82-b440577ac0b7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 8.5,
+      "offsetY": 0,
+      "trimX": 17,
+      "trimY": 0,
+      "width": 150,
+      "height": 105,
+      "rawWidth": 167,
+      "rawHeight": 105,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

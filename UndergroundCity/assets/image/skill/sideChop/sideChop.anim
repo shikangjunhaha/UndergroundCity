@@ -1,0 +1,61 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sideChop",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.4,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "185fcea9-8bea-43de-af7a-0dc69cef4fc1"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "a7681a0e-e2f8-4ac4-b118-19fe82b3c289"
+            }
+          },
+          {
+            "frame": 0.11666666666666667,
+            "value": {
+              "__uuid__": "357268b3-1840-4662-a391-59dcceb7be18"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "4b38390a-b4ba-4031-9686-88f5d7f5fdb7"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "0805a332-ce1d-4b93-9748-a379d5cc14ae"
+            }
+          },
+          {
+            "frame": 0.3333333333333333,
+            "value": {
+              "__uuid__": "d71f15d9-c93b-4b63-acfb-05445baa84c4"
+            }
+          },
+          {
+            "frame": 0.38333333333333336,
+            "value": {
+              "__uuid__": "1116b806-542b-4e2a-9b7c-d6ad10ebad60"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

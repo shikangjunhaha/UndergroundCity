@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "starBurst",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.36666666666666664,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "8548897a-5d18-49f0-9ba3-b63510faf85a"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "6db157d7-fe9a-4e2a-90ba-ccb33e62c15f"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "8955f806-8cf7-4547-837f-d87f65a7e0ad"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "5726d715-fa7d-4921-914f-1723f7776176"
+            }
+          },
+          {
+            "frame": 0.2833333333333333,
+            "value": {
+              "__uuid__": "f39bcfce-9434-439a-9626-2c200435eb97"
+            }
+          },
+          {
+            "frame": 0.35,
+            "value": {
+              "__uuid__": "9843e1cc-b206-4ab3-b31c-12703543dd8d"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
